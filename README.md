@@ -1,5 +1,5 @@
 # NIH Chest X-rays Classification
-![cover_photo](./img/mixtapecover.jpg)
+![cover_photo](./img/cover_xray.jpg)
 
 # Capstone Project III
 1.	[Introduction](#1-introduction)
@@ -38,9 +38,11 @@ This dataset includes:
 <p>
   <img src="https://github.com/tvo10/NIH-chest-x-rays-classification/blob/main/img/findings_1.PNG" />
 </p>
-<hr style="width:40%">
 <p>
   <img src="https://github.com/tvo10/NIH-chest-x-rays-classification/blob/main/img/findings_2.PNG" />
+</p>
+<p>
+  <img src="https://github.com/tvo10/NIH-chest-x-rays-classification/blob/main/img/findings_3.PNG" />
 </p>
 
 ### Chest X-rays 
