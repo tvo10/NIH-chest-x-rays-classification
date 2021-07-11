@@ -60,7 +60,7 @@ For more details:
 
 
 ## 4. Modeling
-We will build our base model by using transfer learning. Transfer learning is a great way to reap the benefits of a well-trained model without having the train the model ourselves. We got 0.8388 as the highest accuracy score when we are fine-tuning the model using the train and validation datasets. Based on our test dataset, we got 0.82 for the accuracy score, which is already accomplished our objective. Even though the model still needs to be improved, we decided to temporarily accept 0.82 accuracy score as an achievement for this notebook as this score is higher than several models on Kaggle.
+We built our base model by using transfer learning. Transfer learning is a great way to reap the benefits of a well-trained model without having the train the model ourselves. We got 0.8388 as the highest accuracy score when we were fine-tuning the model using the train and validation datasets. After evaluating our model using the test dataset, we got 0.82 for the accuracy score, which is already accomplished our main objective. Even though the model still needs to be improved, we decided to temporarily accept 0.82 accuracy score as an achievement for this project as our model's performance is higher than several models on Kaggle.
 <p>
 <img src = "https://github.com/tvo10/NIH-chest-x-rays-classification/blob/main/img/modeling.PNG" />
 </p>
